@@ -1,1 +1,1 @@
-# Fetch exchange rates from API (https://api.exchangerate-api.com)
+### Fetch exchange rates from API (https://api.exchangerate-api.com)
